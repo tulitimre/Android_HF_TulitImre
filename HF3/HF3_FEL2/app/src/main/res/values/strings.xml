@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HF3_FEL2</string>
+    <string name="product_name">Product name:</string>
+    <string name="product_code">Product code:</string>
+    <string name="product_price">Product price:</string>
+    <string name="new_product_form">New Product Form</string>
+    <string name="add_product">Add product</string>
+    <string name="cancel">Cancel</string>
+    <string name="show_products">Show products</string>
+</resources>
