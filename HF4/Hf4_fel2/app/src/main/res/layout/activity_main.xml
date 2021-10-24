@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView22"
+        android:layout_width="55dp"
+        android:layout_height="105dp"
+        android:layout_row="2"
+        android:layout_rowSpan="2"
+        android:layout_column="3"
+        android:background="#FFC000"
+        android:textColor="@color/black"
+        android:gravity="center"
+        android:text="Jog \nea\nOnline \nJózon Mónika"
+        android:textAlignment="center"
+        android:textSize="10sp" />
+
+    <TextView
+        android:id="@+id/textView21"
+        android:layout_width="60dp"
+        android:layout_height="91dp"
+        android:layout_row="7"
+        android:layout_rowSpan="2"
+        android:layout_column="2"
+        android:background="#00B0F0"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:text="Web \nLab\n225 terem \nPál László"
+        android:textAlignment="center"
+        android:textSize="10sp" />
+
+    <TextView
+        android:id="@+id/textView20"
+        android:layout_width="60dp"
+        android:layout_height="91dp"
+        android:layout_row="5"
+        android:layout_rowSpan="2"
+        android:layout_column="2"
+        android:background="#00B0F0"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:text="Hálózatok \nLab\n226 terem \nFilep Levente"
+        android:textAlignment="center"
+        android:textSize="10sp" />
+
+    <TextView
+        android:id="@+id/textView19"
+        android:layout_width="60dp"
+        android:layout_height="105dp"
+        android:layout_row="3"
+        android:layout_rowSpan="2"
+        android:layout_column="2"
+        android:background="#92D050"
+        android:textColor="@color/black"
+        android:gravity="center"
+        android:text="Web \nea\n18 terem \nPál László,"
+        android:textAlignment="center"
+        android:textSize="10sp" />
+
+    <TextView
+        android:id="@+id/textView18"
+        android:layout_width="60dp"
+        android:layout_height="105dp"
+        android:layout_row="3"
+        android:layout_rowSpan="2"
+        android:layout_column="1"
+        android:background="#92D050"
+        android:textColor="@color/black"
+        android:gravity="center"
+        android:text="Hálózatok \nea\n22 terem \nFilep Levente"
+        android:textAlignment="center"
+        android:textSize="10sp" />
+
+    <TextView
+        android:id="@+id/textView28"
+        android:layout_width="55dp"
+        android:layout_height="105dp"
+        android:layout_row="3"
+        android:layout_rowSpan="2"
+        android:layout_column="5"
+        android:background="#00B0F0"
+        android:textColor="@color/black"
+        android:gravity="center"
+        android:text="Jog \nSzem\n17 terem \nVigh Beáta"
+        android:textAlignment="center"
+        android:textSize="10sp" />
+
+    <TextView
+        android:id="@+id/textView23"
+        android:layout_width="55dp"
+        android:layout_height="91dp"
+        android:layout_row="5"
+        android:layout_rowSpan="2"
+        android:layout_column="3"
+        android:background="#92D050"
+        android:textColor="@color/black"
+        android:gravity="center"
+        android:text="Adatbázis \nea\n18 terem \nIllyés László"
+        android:textAlignment="center"
+        android:textSize="10sp" />
+
+    <TextView
+        android:id="@+id/textView24"
+        android:layout_width="55dp"
+        android:layout_height="91dp"
+        android:layout_row="7"
+        android:layout_rowSpan="2"
+        android:layout_column="3"
+        android:background="#00B0F0"
+        android:textColor="@color/black"
+        android:gravity="center"
+        android:text="Adatbázis \nLab\n226 terem \nIllyés László"
+        android:textAlignment="center"
+        android:textSize="10sp" />
+
+    <TextView
+        android:id="@+id/textView25"
+        android:layout_width="65dp"
+        android:layout_height="105dp"
+        android:layout_row="1"
+        android:layout_rowSpan="2"
+        android:layout_column="4"
+        android:background="#92D050"
+        android:textColor="@color/black"
+        android:gravity="center"
+        android:text="Mobil \nEa\n19 terem \nPál László"
+        android:textAlignment="center"
+        android:textSize="10sp" />
+
+    <TextView
+        android:id="@+id/textView26"
+        android:layout_width="65dp"
+        android:layout_height="105dp"
+        android:layout_row="3"
+        android:layout_rowSpan="2"
+        android:layout_column="4"
+        android:background="#00B0F0"
+        android:textColor="@color/black"
+        android:gravity="center"
+        android:text="Mobil \nLab\n225 terem \nPál László"
+        android:textAlignment="center"
+        android:textSize="10sp" />
+
+    <TextView
+        android:id="@+id/textView29"
+        android:layout_width="65dp"
+        android:layout_height="91dp"
+        android:layout_row="9"
+        android:layout_rowSpan="2"
+        android:layout_column="4"
+        android:background="#00B0F0"
+        android:textColor="@color/black"
+        android:gravity="center"
+        android:text="Román \nLab\n21 terem \nSturzu Maria"
+        android:textAlignment="center"
+        android:textSize="10sp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_row="0"
+        android:layout_gravity="center"
+        android:layout_column="2"
+
+        android:text="Kedd" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="43dp"
+        android:layout_row="1"
+        android:layout_column="0"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:padding="10dp"
+
+        android:text="8:00-9:00"
+        android:textAlignment="center"
+        android:textSize="10sp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_row="0"
+        android:layout_gravity="center"
+        android:layout_column="1"
+        android:text="Hétfő" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_row="0"
+        android:layout_gravity="center"
+
+        android:layout_column="3"
+        android:text="Szerda" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="65dp"
+        android:layout_height="wrap_content"
+        android:layout_row="0"
+        android:layout_column="4"
+        android:layout_gravity="center"
+
+        android:text="Csütörtök" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="55dp"
+        android:layout_height="wrap_content"
+        android:layout_row="0"
+        android:layout_column="5"
+        android:textAlignment="center"
+        android:text="Péntek" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="43dp"
+        android:layout_row="2"
+        android:layout_column="0"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="9:00-10:00"
+        android:textAlignment="center"
+        android:textSize="10sp" />
+
+    <TextView
+        android:id="@+id/textView8"
+
+        android:layout_width="wrap_content"
+        android:layout_height="43dp"
+        android:layout_row="3"
+        android:layout_column="0"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="10:00-11:00"
+        android:textAlignment="center"
+        android:textSize="10sp" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="43dp"
+        android:layout_row="4"
+        android:layout_column="0"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="11:00-12:00"
+        android:textAlignment="center"
+        android:textSize="10sp" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="wrap_content"
+        android:layout_height="43dp"
+        android:layout_row="5"
+        android:layout_column="0"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="12:00-13:00"
+        android:textAlignment="center"
+        android:textSize="10sp" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="wrap_content"
+        android:layout_height="43dp"
+        android:layout_row="6"
+        android:layout_column="0"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="13:00-14:00"
+        android:textAlignment="center"
+        android:textSize="10sp" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="wrap_content"
+        android:layout_height="43dp"
+        android:layout_row="7"
+        android:layout_column="0"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="14:00-15:00"
+        android:textAlignment="center"
+        android:textSize="10sp" />
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="wrap_content"
+        android:layout_height="43dp"
+        android:layout_row="8"
+        android:layout_column="0"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="15:00-16:00"
+        android:textAlignment="center"
+        android:textSize="10sp" />
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="wrap_content"
+        android:layout_height="43dp"
+        android:layout_row="9"
+        android:layout_column="0"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="16:00-17:00"
+        android:textAlignment="center"
+        android:textSize="10sp" />
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="wrap_content"
+        android:layout_height="43dp"
+        android:layout_row="10"
+        android:layout_column="0"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="17:00-18:00"
+        android:textAlignment="center"
+        android:textSize="10sp" />
+
+    <TextView
+        android:textColor="@color/black"
+        android:id="@+id/textView17"
+        android:layout_width="60dp"
+        android:layout_height="91dp"
+        android:layout_row="7"
+        android:layout_rowSpan="2"
+        android:layout_column="1"
+        android:background="#92D050"
+        android:gravity="center"
+        android:text="IRT \nea \n12 terem \nIllyes László"
+        android:textAlignment="center"
+        android:textSize="10sp" />
+
+    <TextView
+        android:id="@+id/textView27"
+        android:textColor="@color/black"
+        android:layout_width="65dp"
+        android:layout_height="91dp"
+        android:layout_row="5"
+        android:layout_rowSpan="2"
+        android:layout_column="4"
+        android:background="#92D050"
+        android:gravity="center"
+        android:text="IRT \nLab \n226 terem \nIllyes László"
+        android:textAlignment="center"
+        android:textSize="10sp" />
+</GridLayout>
